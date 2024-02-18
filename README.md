@@ -1,1 +1,1 @@
-# taro_tally
+# 记账功能应用，兼容微信小程序及app（基于taro 4.x）
